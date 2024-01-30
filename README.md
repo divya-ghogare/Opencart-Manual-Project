@@ -1,4 +1,1 @@
-I have made opencart FRS Document File, 
-Opencart Test Plan Excel File, 
-Opencart Test Scenario And Test Cases Excel File, 
-Opencart Bug Report Excel File 
+I have created all files which is useful to describe how i tested Opencart demo application 
